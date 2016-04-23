@@ -1,0 +1,1008 @@
+insert into host(hostname) values('blackhawk');
+insert into mac(mac_adrress) values('aa:00:00:b8:20:ae');
+insert into ip(ip_address) values('129.130.10.11');
+
+insert into host(hostname) values('centurion');
+insert into mac(mac_adrress) values('aa:00:00:b5:29:f7');
+insert into ip(ip_address) values('129.130.10.21');
+
+insert into host(hostname) values('bengal');
+insert into mac(mac_adrress) values('aa:00:00:13:ad:bc');
+insert into ip(ip_address) values('129.130.10.22');
+
+insert into host(hostname) values('hemicuda');
+insert into mac(mac_adrress) values('aa:00:00:2e:f4:81;');
+insert into ip(ip_address) values('129.130.10.23');
+
+insert into host(hostname) values('monaco');
+insert into mac(mac_adrress) values('00:1e:68:37:92:9c');
+insert into ip(ip_address) values('129.130.10.29');
+
+insert into host(hostname) values('perfsonar');
+insert into mac(mac_adrress) values('00:02:c9:ea:4b:d0');
+insert into ip(ip_address) values('129.130.10.34');
+
+insert into host(hostname) values('quantum');
+insert into mac(mac_adrress) values('aa:00:00:e8:23:bb');
+insert into ip(ip_address) values('129.130.10.38');
+
+insert into host(hostname) values('cougar');
+insert into mac(mac_adrress) values('5c:f3:fc:4d:da:d8');
+insert into ip(ip_address) values('129.130.10.39');
+
+insert into host(hostname) values('viper');
+insert into mac(mac_adrress) values('5c:f3:fc:4d:dc:f8');
+insert into ip(ip_address) values('129.130.10.43');
+
+insert into host(hostname) values('durango');
+insert into mac(mac_adrress) values('00:1e:68:1d:f8:76');
+insert into ip(ip_address) values('129.130.10.49');
+
+insert into host(hostname) values('cherokee');
+insert into mac(mac_adrress) values('00:23:8b:89:e1:54');
+insert into ip(ip_address) values('129.130.10.50');
+
+insert into host(hostname) values('desoto');
+insert into mac(mac_adrress) values('00:0c:29:7c:b9:9e');
+insert into ip(ip_address) values('129.130.10.58');
+
+insert into host(hostname) values('ballot');
+insert into mac(mac_adrress) values('aa:00:00:1c:a9:bd');
+insert into ip(ip_address) values('129.130.10.57');
+
+insert into host(hostname) values('stratus');
+insert into mac(mac_adrress) values('00:0c:29:fa:5f:21');
+insert into ip(ip_address) values('129.130.10.56');
+
+insert into host(hostname) values('santos02');
+insert into mac(mac_adrress) values('00:21:5e:6e:67:53');
+insert into ip(ip_address) values('129.130.10.64');
+
+insert into host(hostname) values('santos03');
+insert into mac(mac_adrress) values('00:21:5e:6e:69:d8');
+insert into ip(ip_address) values('129.130.10.65');
+
+insert into host(hostname) values('santos04');
+insert into mac(mac_adrress) values('00:21:5e:6e:6b:59');
+insert into ip(ip_address) values('129.130.10.66');
+
+insert into host(hostname) values('santos05');
+insert into mac(mac_adrress) values('00:21:5e:6e:69:ce');
+insert into ip(ip_address) values('129.130.10.67');
+
+insert into host(hostname) values('santos06');
+insert into mac(mac_adrress) values('00:21:5e:6e:67:1c');
+insert into ip(ip_address) values('129.130.10.68');
+
+insert into host(hostname) values('santos07');
+insert into mac(mac_adrress) values('00:21:5e:6e:5f:3d');
+insert into ip(ip_address) values('129.130.10.70');
+
+insert into host(hostname) values('santos08');
+insert into mac(mac_adrress) values('00:21:5e:6e:60:aa');
+insert into ip(ip_address) values('129.130.10.75');
+
+insert into host(hostname) values('santos09');
+insert into mac(mac_adrress) values('00:21:5e:6e:68:98');
+insert into ip(ip_address) values('129.130.10.76');
+
+insert into host(hostname) values('santos00');
+insert into mac(mac_adrress) values('00:21:5e:6e:68:b1');
+insert into ip(ip_address) values('129.130.10.77');
+
+insert into host(hostname) values('santos10');
+insert into mac(mac_adrress) values('40:f2:e9:36:1d:a2');
+insert into ip(ip_address) values('129.130.10.78');
+
+insert into host(hostname) values('santos11');
+insert into mac(mac_adrress) values('40:f2:e9:36:1d:9d');
+insert into ip(ip_address) values('129.130.10.79');
+
+insert into host(hostname) values('santos12');
+insert into mac(mac_adrress) values('40:f2:e9:36:1e:65');
+insert into ip(ip_address) values('129.130.10.80');
+
+insert into host(hostname) values('santos13');
+insert into mac(mac_adrress) values('40:f2:e9:36:1f:14');
+insert into ip(ip_address) values('129.130.10.81');
+
+insert into host(hostname) values('santos14');
+insert into mac(mac_adrress) values('40:f2:e9:36:1e:6a');
+insert into ip(ip_address) values('129.130.10.82');
+
+insert into host(hostname) values('santos15');
+insert into mac(mac_adrress) values('40:f2:e9:36:1e:83');
+insert into ip(ip_address) values('129.130.10.83');
+
+insert into host(hostname) values('santos16');
+insert into mac(mac_adrress) values('40:f2:e9:36:1e:9c');
+insert into ip(ip_address) values('129.130.10.84');
+
+insert into host(hostname) values('santos17');
+insert into mac(mac_adrress) values('40:f2:e9:36:1f:5f');
+insert into ip(ip_address) values('129.130.10.85');
+
+insert into host(hostname) values('santos18');
+insert into mac(mac_adrress) values('40:f2:e9:36:1e:c9');
+insert into ip(ip_address) values('129.130.10.86');
+
+insert into host(hostname) values('santos19');
+insert into mac(mac_adrress) values('40:f2:e9:35:e4:04');
+insert into ip(ip_address) values('129.130.10.87');
+
+insert into host(hostname) values('legion');
+insert into mac(mac_adrress) values('40:f2:e9:63:2c:34');
+insert into ip(ip_address) values('129.130.10.88');
+
+insert into host(hostname) values('praetorian');
+insert into mac(mac_adrress) values('40:f2:e9:63:33:9c');
+insert into ip(ip_address) values('129.130.10.89');
+
+insert into host(hostname) values('playground');
+insert into mac(mac_adrress) values('5c:f3:fc:dd:91:7c');
+insert into ip(ip_address) values('129.130.10.90');
+
+insert into host(hostname) values('crossfire');
+insert into mac(mac_adrress) values('aa:00:00:21:3a:cf');
+insert into ip(ip_address) values('129.130.10.73');
+
+insert into host(hostname) values('anaire');
+insert into mac(mac_adrress) values('00:48:54:8d:d8:2b');
+insert into ip(ip_address) values('129.130.10.96');
+
+insert into host(hostname) values('osse');
+insert into mac(mac_adrress) values('00:01:6c:e4:53:c6');
+insert into ip(ip_address) values('129.130.10.97');
+
+insert into host(hostname) values('fingolfin');
+insert into mac(mac_adrress) values('00:02:e3:02:5d:dd');
+insert into ip(ip_address) values('129.130.10.98');
+
+insert into host(hostname) values('turgon');
+insert into mac(mac_adrress) values('00:04:75:e6:47:aa');
+insert into ip(ip_address) values('129.130.10.99');
+
+insert into host(hostname) values('famine');
+insert into mac(mac_adrress) values('00:1f:bc:00:f7:3d');
+insert into ip(ip_address) values('129.130.10.100');
+
+insert into host(hostname) values('donblas');
+insert into mac(mac_adrress) values('00:01:6c:e4:58:b6');
+insert into ip(ip_address) values('129.130.10.101');
+
+insert into host(hostname) values('ilmare');
+insert into mac(mac_adrress) values('00:30:65:4b:1a:c4');
+insert into ip(ip_address) values('129.130.10.102');
+
+insert into host(hostname) values('earrame');
+insert into mac(mac_adrress) values('00:09:6b:5f:b2:7a');
+insert into ip(ip_address) values('129.130.10.103');
+
+insert into host(hostname) values('meril');
+insert into mac(mac_adrress) values('00:23:ae:01:61:70');
+insert into ip(ip_address) values('129.130.10.104');
+
+insert into host(hostname) values('baniac-aleph');
+insert into mac(mac_adrress) values('00:24:8c:98:d2:61');
+insert into ip(ip_address) values('129.130.10.105');
+
+insert into host(hostname) values('escape');
+insert into mac(mac_adrress) values('4c:72:b9:26:f6:7e');
+insert into ip(ip_address) values('129.130.10.112');
+
+insert into host(hostname) values('arbor');
+insert into mac(mac_adrress) values('e0:db:55:dd:bc:9d');
+insert into ip(ip_address) values('129.130.10.113');
+
+insert into host(hostname) values('sebring');
+insert into mac(mac_adrress) values('38:60:77:13:ca:c2');
+insert into ip(ip_address) values('129.130.10.114');
+
+insert into host(hostname) values('fairlane');
+insert into mac(mac_adrress) values('00:1a:64:b3:3e:70');
+insert into ip(ip_address) values('129.130.10.115');
+
+insert into host(hostname) values('windsor');
+insert into mac(mac_adrress) values('00:27:0e:13:e2:79');
+insert into ip(ip_address) values('129.130.10.116');
+
+insert into host(hostname) values('hornet');
+insert into mac(mac_adrress) values('00:1b:21:a4:2f:89');
+insert into ip(ip_address) values('129.130.10.117');
+
+insert into host(hostname) values('valiant');
+insert into mac(mac_adrress) values('e0:69:95:c9:73:56');
+insert into ip(ip_address) values('129.130.10.118');
+
+insert into host(hostname) values('cybersec-lab');
+insert into mac(mac_adrress) values('00:07:e9:1a:f3:84');
+insert into ip(ip_address) values('129.130.10.119');
+
+insert into host(hostname) values('trotsky');
+insert into mac(mac_adrress) values('ec:1a:59:3d:81:97');
+insert into ip(ip_address) values('129.130.10.120');
+
+insert into host(hostname) values('sec');
+insert into mac(mac_adrress) values('38:60:77:13:9f:e4');
+insert into ip(ip_address) values('129.130.10.121');
+
+insert into host(hostname) values('stealth');
+insert into mac(mac_adrress) values('00:13:20:64:d0:52');
+insert into ip(ip_address) values('129.130.10.122');
+
+insert into host(hostname) values('escalade');
+insert into mac(mac_adrress) values('00:23:ae:9e:59:46');
+insert into ip(ip_address) values('129.130.10.123');
+
+insert into host(hostname) values('denali');
+insert into mac(mac_adrress) values('00:1c:c0:2c:81:75');
+insert into ip(ip_address) values('129.130.10.124');
+
+insert into host(hostname) values('vibe');
+insert into mac(mac_adrress) values('38:60:77:13:ce:11');
+insert into ip(ip_address) values('129.130.10.125');
+
+insert into host(hostname) values('fiesta');
+insert into mac(mac_adrress) values('a4:ba:db:ec:cf:56');
+insert into ip(ip_address) values('129.130.10.126');
+
+insert into host(hostname) values('ranger');
+insert into mac(mac_adrress) values('00:23:ae:9e:5b:0f');
+insert into ip(ip_address) values('129.130.10.127');
+
+insert into host(hostname) values('n318bx02');
+insert into mac(mac_adrress) values('00:23:df:df:2b:a2');
+insert into ip(ip_address) values('129.130.10.128');
+
+insert into host(hostname) values('n318bx01');
+insert into mac(mac_adrress) values('00:23:df:df:16:ec');
+insert into ip(ip_address) values('129.130.10.129');
+
+insert into host(hostname) values('omega');
+insert into mac(mac_adrress) values('e8:40:f2:ad:37:0c');
+insert into ip(ip_address) values('129.130.10.130');
+
+insert into host(hostname) values('silverado');
+insert into mac(mac_adrress) values('00:01:80:49:54:d0');
+insert into ip(ip_address) values('129.130.10.131');
+
+insert into host(hostname) values('n324gx01');
+insert into mac(mac_adrress) values('70:71:bc:1f:5b:6e');
+insert into ip(ip_address) values('129.130.10.133');
+
+insert into host(hostname) values('n318x01');
+insert into mac(mac_adrress) values('f0:1f:af:ed:d0:ea');
+insert into ip(ip_address) values('129.130.10.134');
+
+insert into host(hostname) values('robby-mp');
+insert into mac(mac_adrress) values('00:3e:e1:c0:b5:f4');
+insert into ip(ip_address) values('129.130.10.135');
+
+insert into host(hostname) values('dart');
+insert into mac(mac_adrress) values('e0:69:95:e5:61:2a');
+insert into ip(ip_address) values('129.130.10.136');
+
+insert into host(hostname) values('robot-1x');
+insert into mac(mac_adrress) values('ec:1a:59:3d:66:8a');
+insert into ip(ip_address) values('129.130.10.137');
+
+insert into host(hostname) values('cruze');
+insert into mac(mac_adrress) values('00:1c:c0:7e:94:14');
+insert into ip(ip_address) values('129.130.10.138');
+
+insert into host(hostname) values('n227ex01');
+insert into mac(mac_adrress) values('a4:ba:db:f5:00:c7');
+insert into ip(ip_address) values('129.130.10.139');
+
+insert into host(hostname) values('cobra');
+insert into mac(mac_adrress) values('70:71:bc:0e:6a:5e');
+insert into ip(ip_address) values('129.130.10.140');
+
+insert into host(hostname) values('fit');
+insert into mac(mac_adrress) values('e0:69:95:e5:65:14');
+insert into ip(ip_address) values('129.130.10.141');
+
+insert into host(hostname) values('neon');
+insert into mac(mac_adrress) values('00:1c:c0:2c:81:fc');
+insert into ip(ip_address) values('129.130.10.142');
+
+insert into host(hostname) values('skoda');
+insert into mac(mac_adrress) values('00:19:d1:5e:9a:21');
+insert into ip(ip_address) values('129.130.10.143');
+
+insert into host(hostname) values('jeep');
+insert into mac(mac_adrress) values('e0:69:95:d1:c4:b5');
+insert into ip(ip_address) values('129.130.10.144');
+
+insert into host(hostname) values('n117m01');
+insert into mac(mac_adrress) values('c4:2c:03:27:a7:00');
+insert into ip(ip_address) values('129.130.10.153');
+
+insert into host(hostname) values('n123w71');
+insert into mac(mac_adrress) values('00:1c:c0:95:45:77');
+insert into ip(ip_address) values('129.130.10.154');
+
+insert into host(hostname) values('golf');
+insert into mac(mac_adrress) values('70:54:d2:c4:50:bd');
+insert into ip(ip_address) values('129.130.10.155');
+
+insert into host(hostname) values('n119m01');
+insert into mac(mac_adrress) values('3c:07:54:0b:05:14');
+insert into ip(ip_address) values('129.130.10.156');
+
+insert into host(hostname) values('n119x02');
+insert into mac(mac_adrress) values('70:54:d2:ab:93:75');
+insert into ip(ip_address) values('129.130.10.157');
+
+insert into host(hostname) values('n119x01');
+insert into mac(mac_adrress) values('70:54:D2:C4:51:6E');
+insert into ip(ip_address) values('129.130.10.158');
+
+insert into host(hostname) values('passat');
+insert into mac(mac_adrress) values('70:54:d2:8f:dd:6f');
+insert into ip(ip_address) values('129.130.10.159');
+
+insert into host(hostname) values('probe');
+insert into mac(mac_adrress) values('b8:27:eb:56:df:96');
+insert into ip(ip_address) values('129.130.10.160');
+
+insert into host(hostname) values('focus');
+insert into mac(mac_adrress) values('b8:27:eb:a5:ab:60');
+insert into ip(ip_address) values('129.130.10.161');
+
+insert into host(hostname) values('capri');
+insert into mac(mac_adrress) values('b8:27:eb:88:63:33');
+insert into ip(ip_address) values('129.130.10.162');
+
+insert into host(hostname) values('n123mw71');
+insert into mac(mac_adrress) values('00:1c:c0:95:26:c2');
+insert into ip(ip_address) values('129.130.10.164');
+
+insert into host(hostname) values('omni');
+insert into mac(mac_adrress) values('ec:a8:6b:f6:16:b4');
+insert into ip(ip_address) values('129.130.10.165');
+
+insert into host(hostname) values('n119m02');
+insert into mac(mac_adrress) values('00:3e:e1:c1:c2:4a');
+insert into ip(ip_address) values('129.130.10.166');
+
+insert into host(hostname) values('touareg');
+insert into mac(mac_adrress) values('70:71:bc:1f:5a:35');
+insert into ip(ip_address) values('129.130.10.167');
+
+insert into host(hostname) values('thor');
+insert into mac(mac_adrress) values('ac:87:a3:10:f6:c3');
+insert into ip(ip_address) values('129.130.10.168');
+
+insert into host(hostname) values('n117m02');
+insert into mac(mac_adrress) values('68:5b:35:88:bf:8e');
+insert into ip(ip_address) values('129.130.10.169');
+
+insert into host(hostname) values('n117m03');
+insert into mac(mac_adrress) values('ac:87:a3:10:e9:a4');
+insert into ip(ip_address) values('129.130.10.170');
+
+insert into host(hostname) values('n117m04');
+insert into mac(mac_adrress) values('c4:2c:03:28:c8:f4');
+insert into ip(ip_address) values('129.130.10.171');
+
+insert into host(hostname) values('n119m03');
+insert into mac(mac_adrress) values('00:3e:e1:c1:cb:21;');
+insert into ip(ip_address) values('129.130.10.173');
+
+insert into host(hostname) values('howler');
+insert into mac(mac_adrress) values('08:00:27:42:1d:77;');
+insert into ip(ip_address) values('129.130.10.175');
+
+insert into host(hostname) values('astro');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:46:95');
+insert into ip(ip_address) values('129.130.10.176');
+
+insert into host(hostname) values('avalanche');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:13:a6');
+insert into ip(ip_address) values('129.130.10.177');
+
+insert into host(hostname) values('beretta');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:3d:3a');
+insert into ip(ip_address) values('129.130.10.178');
+
+insert into host(hostname) values('caprice');
+insert into mac(mac_adrress) values('c0:3f:d5:62:91:da');
+insert into ip(ip_address) values('129.130.10.179');
+
+insert into host(hostname) values('cavalier');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:45:52');
+insert into ip(ip_address) values('129.130.10.180');
+
+insert into host(hostname) values('chevelle');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:11:fb');
+insert into ip(ip_address) values('129.130.10.181');
+
+insert into host(hostname) values('cobalt');
+insert into mac(mac_adrress) values('c0:3f:d5:6f:0f:15');
+insert into ip(ip_address) values('129.130.10.182');
+
+insert into host(hostname) values('corsica');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:bc:00');
+insert into ip(ip_address) values('129.130.10.183');
+
+insert into host(hostname) values('equinox');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:c0:2b');
+insert into ip(ip_address) values('129.130.10.184');
+
+insert into host(hostname) values('impala');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:d1:a4');
+insert into ip(ip_address) values('129.130.10.185');
+
+insert into host(hostname) values('lumina');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:c0:ce');
+insert into ip(ip_address) values('129.130.10.186');
+
+insert into host(hostname) values('malibu');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:d1:8d');
+insert into ip(ip_address) values('129.130.10.187');
+
+insert into host(hostname) values('nova');
+insert into mac(mac_adrress) values('c0:3f:d5:6e:bf:19');
+insert into ip(ip_address) values('129.130.10.188');
+
+insert into host(hostname) values('aerostar');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:2f:0d');
+insert into ip(ip_address) values('129.130.10.189');
+
+insert into host(hostname) values('bronco');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:2e:b5');
+insert into ip(ip_address) values('129.130.10.190');
+
+insert into host(hostname) values('contour');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:45:96');
+insert into ip(ip_address) values('129.130.10.191');
+
+insert into host(hostname) values('edge');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:46:fd');
+insert into ip(ip_address) values('129.130.10.192');
+
+insert into host(hostname) values('escort');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:4a:5b');
+insert into ip(ip_address) values('129.130.10.193');
+
+insert into host(hostname) values('festiva');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:30:3b');
+insert into ip(ip_address) values('129.130.10.194');
+
+insert into host(hostname) values('flex');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:2f:ec');
+insert into ip(ip_address) values('129.130.10.195');
+
+insert into host(hostname) values('fusion');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:30:10');
+insert into ip(ip_address) values('129.130.10.196');
+
+insert into host(hostname) values('pilot');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:2e:e7');
+insert into ip(ip_address) values('129.130.10.197');
+
+insert into host(hostname) values('scorpio');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:45:f9');
+insert into ip(ip_address) values('129.130.10.198');
+
+insert into host(hostname) values('taurus');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:45:e3');
+insert into ip(ip_address) values('129.130.10.199');
+
+insert into host(hostname) values('tempo');
+insert into mac(mac_adrress) values('ec:a8:6b:fe:47:9d');
+insert into ip(ip_address) values('129.130.10.200');
+
+insert into host(hostname) values('batman');
+insert into mac(mac_adrress) values('08:00:27:0E:4F:88');
+insert into ip(ip_address) values('129.130.10.230');
+
+insert into host(hostname) values('n114t01');
+insert into mac(mac_adrress) values('00:20:4a:b1:a3:01');
+insert into ip(ip_address) values('129.130.11.1');
+
+insert into host(hostname) values('n018t01');
+insert into mac(mac_adrress) values('00:20:4a:b1:a0:70');
+insert into ip(ip_address) values('129.130.11.2');
+
+insert into host(hostname) values('n232-savinc5050');
+insert into mac(mac_adrress) values('00:00:74:f8:7d:ce');
+insert into ip(ip_address) values('129.130.11.3');
+
+insert into host(hostname) values('n126c01');
+insert into mac(mac_adrress) values('00:40:8c:a3:e9:02');
+insert into ip(ip_address) values('129.130.11.4');
+
+insert into host(hostname) values('n126c02');
+insert into mac(mac_adrress) values('00:40:8c:9d:9a:0c');
+insert into ip(ip_address) values('129.130.11.5');
+
+insert into host(hostname) values('n128c01');
+insert into mac(mac_adrress) values('00:40:8c:9d:9b:23');
+insert into ip(ip_address) values('129.130.11.6');
+
+insert into host(hostname) values('n022c01');
+insert into mac(mac_adrress) values('00:40:8c:a3:e5:b8');
+insert into ip(ip_address) values('129.130.11.7');
+
+insert into host(hostname) values('k006-hp4250');
+insert into mac(mac_adrress) values('00:14:38:5e:4d:99');
+insert into ip(ip_address) values('129.130.11.8');
+
+insert into host(hostname) values('k006-dlk-1');
+insert into mac(mac_adrress) values('00:13:46:8c:e7:fb');
+insert into ip(ip_address) values('129.130.11.9');
+
+insert into host(hostname) values('n114c01');
+insert into mac(mac_adrress) values('00:80:f0:58:d9:8b');
+insert into ip(ip_address) values('129.130.11.10');
+
+insert into host(hostname) values('n021c01');
+insert into mac(mac_adrress) values('00:40:8c:aa:b4:6a');
+insert into ip(ip_address) values('129.130.11.11');
+
+insert into host(hostname) values('n021c02');
+insert into mac(mac_adrress) values('00:40:8c:aa:b3:52');
+insert into ip(ip_address) values('129.130.11.12');
+
+insert into host(hostname) values('n122c01');
+insert into mac(mac_adrress) values('00:40:8c:aa:7b:b8');
+insert into ip(ip_address) values('129.130.11.13');
+
+insert into host(hostname) values('acmrouter');
+insert into mac(mac_adrress) values('5c:d9:98:5d:34:2b');
+insert into ip(ip_address) values('129.130.11.16');
+
+insert into host(hostname) values('n114s01');
+insert into mac(mac_adrress) values('04:a1:51:af:9b:cf');
+insert into ip(ip_address) values('129.130.11.17');
+
+insert into host(hostname) values('n122c02');
+insert into mac(mac_adrress) values('00:40:8c:aa:58:88');
+insert into ip(ip_address) values('129.130.11.18');
+
+insert into host(hostname) values('n016c01');
+insert into mac(mac_adrress) values('00:40:8c:a0:5f:a9');
+insert into ip(ip_address) values('129.130.11.19');
+
+insert into host(hostname) values('n127c01');
+insert into mac(mac_adrress) values('00:40:8c:aa:7d:b6');
+insert into ip(ip_address) values('129.130.11.20');
+
+insert into host(hostname) values('k006m02');
+insert into mac(mac_adrress) values('e8:06:88:ce:ac:0d');
+insert into ip(ip_address) values('129.130.11.51');
+
+insert into host(hostname) values('k006w01');
+insert into mac(mac_adrress) values('00:11:11:95:ed:a1');
+insert into ip(ip_address) values('129.130.11.52');
+
+insert into host(hostname) values('k006w03');
+insert into mac(mac_adrress) values('00:11:11:b3:d0:9c');
+insert into ip(ip_address) values('129.130.11.53');
+
+insert into host(hostname) values('k006w11');
+insert into mac(mac_adrress) values('00:1e:c9:30:7f:2c');
+insert into ip(ip_address) values('129.130.11.54');
+
+insert into host(hostname) values('macintoshpro');
+insert into mac(mac_adrress) values('00:1d:4f:4b:c6:bc');
+insert into ip(ip_address) values('129.130.11.55');
+
+insert into host(hostname) values('k006grapper');
+insert into mac(mac_adrress) values('00:04:bf:90:a8:53');
+insert into ip(ip_address) values('129.130.11.56');
+
+insert into host(hostname) values('k006arm');
+insert into mac(mac_adrress) values('00:04:bf:90:a4:59');
+insert into ip(ip_address) values('129.130.11.57');
+
+insert into host(hostname) values('k006w78');
+insert into mac(mac_adrress) values('e0:69:95:fc:c3:b4');
+insert into ip(ip_address) values('129.130.11.58');
+
+insert into host(hostname) values('k006w71');
+insert into mac(mac_adrress) values('00:1c:c0:2c:81:db');
+insert into ip(ip_address) values('129.130.11.59');
+
+insert into host(hostname) values('k006w76');
+insert into mac(mac_adrress) values('00:1c:c0:2c:81:d4');
+insert into ip(ip_address) values('129.130.11.60');
+
+insert into host(hostname) values('n016a4w71');
+insert into mac(mac_adrress) values('e0:69:95:e5:56:82');
+insert into ip(ip_address) values('129.130.11.67');
+
+insert into host(hostname) values('n231w71');
+insert into mac(mac_adrress) values('70:71:bc:1f:5a:35');
+insert into ip(ip_address) values('129.130.11.68');
+
+insert into host(hostname) values('n324ew71');
+insert into mac(mac_adrress) values('e8:40:f2:ad:37:32');
+insert into ip(ip_address) values('129.130.11.69');
+
+insert into host(hostname) values('n126dw71');
+insert into mac(mac_adrress) values('00:1e:4f:d7:76:1e');
+insert into ip(ip_address) values('129.130.11.70');
+
+insert into host(hostname) values('n127w79');
+insert into mac(mac_adrress) values('b8:ac:6f:9f:9a:b7');
+insert into ip(ip_address) values('129.130.11.71');
+
+insert into host(hostname) values('n219dw74');
+insert into mac(mac_adrress) values('d4:be:d9:1e:30:45');
+insert into ip(ip_address) values('129.130.11.72');
+
+insert into host(hostname) values('n127w77');
+insert into mac(mac_adrress) values('b8:ac:6f:9f:9a:1e');
+insert into ip(ip_address) values('129.130.11.73');
+
+insert into host(hostname) values('n227aw71');
+insert into mac(mac_adrress) values('e0:69:95:4f:f8:47');
+insert into ip(ip_address) values('129.130.11.75');
+
+insert into host(hostname) values('n219aw71');
+insert into mac(mac_adrress) values('00:1c:c0:26:0a:7b');
+insert into ip(ip_address) values('129.130.11.76');
+
+insert into host(hostname) values('n234w72');
+insert into mac(mac_adrress) values('00:19:d1:b1:ea:e3');
+insert into ip(ip_address) values('129.130.11.78');
+
+insert into host(hostname) values('n234cw71');
+insert into mac(mac_adrress) values('e0:69:95:4f:f0:08');
+insert into ip(ip_address) values('129.130.11.79');
+
+insert into host(hostname) values('n234ew71');
+insert into mac(mac_adrress) values('00:19:d1:b1:e9:98');
+insert into ip(ip_address) values('129.130.11.80');
+
+insert into host(hostname) values('n228w03');
+insert into mac(mac_adrress) values('00:1c:c0:7e:93:fb');
+insert into ip(ip_address) values('129.130.11.81');
+
+insert into host(hostname) values('n219bw73');
+insert into mac(mac_adrress) values('00:22:68:11:67:95');
+insert into ip(ip_address) values('129.130.11.82');
+
+insert into host(hostname) values('n216w06');
+insert into mac(mac_adrress) values('00:26:9e:e6:7d:b0');
+insert into ip(ip_address) values('129.130.11.83');
+
+insert into host(hostname) values('n234w79');
+insert into mac(mac_adrress) values('00:1c:7e:b6:4d:27');
+insert into ip(ip_address) values('129.130.11.84');
+
+insert into host(hostname) values('n236w71');
+insert into mac(mac_adrress) values('00:1c:c0:7d:69:d1');
+insert into ip(ip_address) values('129.130.11.85');
+
+insert into host(hostname) values('n231w72');
+insert into mac(mac_adrress) values('44:37:e6:46:26:70');
+insert into ip(ip_address) values('129.130.11.86');
+
+insert into host(hostname) values('n227cw71');
+insert into mac(mac_adrress) values('a4:ba:db:ec:8f:06');
+insert into ip(ip_address) values('129.130.11.87');
+
+insert into host(hostname) values('n234m01');
+insert into mac(mac_adrress) values('00:23:32:30:14:74');
+insert into ip(ip_address) values('129.130.11.88');
+
+insert into host(hostname) values('n234w74');
+insert into mac(mac_adrress) values('70:54:d2:ab:93:2a');
+insert into ip(ip_address) values('129.130.11.89');
+
+insert into host(hostname) values('n234w75');
+insert into mac(mac_adrress) values('70:54:d2:ab:91:fe');
+insert into ip(ip_address) values('129.130.11.90');
+
+insert into host(hostname) values('n219fw75');
+insert into mac(mac_adrress) values('e0:69:95:4f:f7:06');
+insert into ip(ip_address) values('129.130.11.91');
+
+insert into host(hostname) values('e2184w01');
+insert into mac(mac_adrress) values('b8:ae:ed:7b:41:17');
+insert into ip(ip_address) values('129.130.11.92');
+
+insert into host(hostname) values('e2184w02');
+insert into mac(mac_adrress) values('b8:ae:ed:7b:42:f3');
+insert into ip(ip_address) values('129.130.11.93');
+
+insert into host(hostname) values('regal');
+insert into mac(mac_adrress) values('e0:69:95:d1:c4:96');
+insert into ip(ip_address) values('129.130.11.94');
+
+insert into host(hostname) values('n016w71');
+insert into mac(mac_adrress) values('e8:40:f2:09:91:c4');
+insert into ip(ip_address) values('129.130.11.126');
+
+insert into host(hostname) values('n016w72');
+insert into mac(mac_adrress) values('e8:40:f2:09:91:f2');
+insert into ip(ip_address) values('129.130.11.127');
+
+insert into host(hostname) values('n016w73');
+insert into mac(mac_adrress) values('00:1c:c0:2e:cd:c6');
+insert into ip(ip_address) values('129.130.11.128');
+
+insert into host(hostname) values('n016w74');
+insert into mac(mac_adrress) values('00:19:d1:7e:1d:ae');
+insert into ip(ip_address) values('129.130.11.129');
+
+insert into host(hostname) values('n016w75');
+insert into mac(mac_adrress) values('00:19:d1:b1:fc:d4');
+insert into ip(ip_address) values('129.130.11.130');
+
+insert into host(hostname) values('n016w76');
+insert into mac(mac_adrress) values('00:1c:c0:27:bb:f5');
+insert into ip(ip_address) values('129.130.11.131');
+
+insert into host(hostname) values('n016w77');
+insert into mac(mac_adrress) values('e8:40:f2:09:91:0a');
+insert into ip(ip_address) values('129.130.11.132');
+
+insert into host(hostname) values('n016w78');
+insert into mac(mac_adrress) values('e8:40:f2:09:91:ba');
+insert into ip(ip_address) values('129.130.11.133');
+
+insert into host(hostname) values('n022w01');
+insert into mac(mac_adrress) values('e0:69:95:e5:5f:98');
+insert into ip(ip_address) values('129.130.11.143');
+
+insert into host(hostname) values('n022w02');
+insert into mac(mac_adrress) values('e0:69:95:d1:c4:cd');
+insert into ip(ip_address) values('129.130.11.144');
+
+insert into host(hostname) values('n022w03');
+insert into mac(mac_adrress) values('e0:69:95:d1:bb:13');
+insert into ip(ip_address) values('129.130.11.145');
+
+insert into host(hostname) values('n022w04');
+insert into mac(mac_adrress) values('e0:69:95:d1:c4:c3');
+insert into ip(ip_address) values('129.130.11.146');
+
+insert into host(hostname) values('n022w05');
+insert into mac(mac_adrress) values('e0:69:95:d1:bb:74');
+insert into ip(ip_address) values('129.130.11.147');
+
+insert into host(hostname) values('n022w06');
+insert into mac(mac_adrress) values('e0:69:95:e5:72:bf');
+insert into ip(ip_address) values('129.130.11.148');
+
+insert into host(hostname) values('n022w07');
+insert into mac(mac_adrress) values('e0:69:95:e5:5f:b8');
+insert into ip(ip_address) values('129.130.11.149');
+
+insert into host(hostname) values('n022w08');
+insert into mac(mac_adrress) values('e0:69:95:e5:6c:e6');
+insert into ip(ip_address) values('129.130.11.150');
+
+insert into host(hostname) values('n022w09');
+insert into mac(mac_adrress) values('e0:69:95:e5:72:df');
+insert into ip(ip_address) values('129.130.11.151');
+
+insert into host(hostname) values('n022w10');
+insert into mac(mac_adrress) values('e0:69:95:e5:72:a5');
+insert into ip(ip_address) values('129.130.11.152');
+
+insert into host(hostname) values('n022w11');
+insert into mac(mac_adrress) values('e0:69:95:e5:62:f5');
+insert into ip(ip_address) values('129.130.11.153');
+
+insert into host(hostname) values('n022w12');
+insert into mac(mac_adrress) values('e0:69:95:e5:60:55');
+insert into ip(ip_address) values('129.130.11.154');
+
+insert into host(hostname) values('n022w13');
+insert into mac(mac_adrress) values('e0:69:95:e5:5e:1f');
+insert into ip(ip_address) values('129.130.11.155');
+
+insert into host(hostname) values('n022w14');
+insert into mac(mac_adrress) values('e0:69:95:e5:49:cb');
+insert into ip(ip_address) values('129.130.11.156');
+
+insert into host(hostname) values('n022w15');
+insert into mac(mac_adrress) values('e0:69:95:e4:db:d5');
+insert into ip(ip_address) values('129.130.11.157');
+
+insert into host(hostname) values('n022w16');
+insert into mac(mac_adrress) values('e0:69:95:e5:65:0c');
+insert into ip(ip_address) values('129.130.11.158');
+
+insert into host(hostname) values('n022w70');
+insert into mac(mac_adrress) values('00:13:20:39:bc:da');
+insert into ip(ip_address) values('129.130.11.142');
+
+insert into host(hostname) values('n022w71');
+insert into mac(mac_adrress) values('00:1e:4f:d1:4e:75');
+insert into ip(ip_address) values('129.130.11.143');
+
+insert into host(hostname) values('n022w72');
+insert into mac(mac_adrress) values('00:1e:4f:d1:4e:03');
+insert into ip(ip_address) values('129.130.11.144');
+
+insert into host(hostname) values('n022w73');
+insert into mac(mac_adrress) values('00:1e:4f:d1:4d:69');
+insert into ip(ip_address) values('129.130.11.145');
+
+insert into host(hostname) values('n022w74');
+insert into mac(mac_adrress) values('00:1e:4f:d1:4c:8b');
+insert into ip(ip_address) values('129.130.11.146');
+
+insert into host(hostname) values('n022w75');
+insert into mac(mac_adrress) values('00:1e:4f:d1:37:b7');
+insert into ip(ip_address) values('129.130.11.147');
+
+insert into host(hostname) values('n022w76');
+insert into mac(mac_adrress) values('b8:ac:6f:0e:70:73');
+insert into ip(ip_address) values('129.130.11.148');
+
+insert into host(hostname) values('n022w77');
+insert into mac(mac_adrress) values('b8:ac:6f:ad:44:c3');
+insert into ip(ip_address) values('129.130.11.149');
+
+insert into host(hostname) values('n022w78');
+insert into mac(mac_adrress) values('b8:ac:6f:ae:1d:50');
+insert into ip(ip_address) values('129.130.11.150');
+
+insert into host(hostname) values('n022w79');
+insert into mac(mac_adrress) values('b8:ac:6f:0d:47:5e');
+insert into ip(ip_address) values('129.130.11.151');
+
+insert into host(hostname) values('n022w80');
+insert into mac(mac_adrress) values('14:fe:b5:fc:9b:fa');
+insert into ip(ip_address) values('129.130.11.152');
+
+insert into host(hostname) values('n022w81');
+insert into mac(mac_adrress) values('00:1e:4f:d7:76:1e');
+insert into ip(ip_address) values('129.130.11.153');
+
+insert into host(hostname) values('n022w82');
+insert into mac(mac_adrress) values('b8:ac:6f:ad:ec:49');
+insert into ip(ip_address) values('129.130.11.154');
+
+insert into host(hostname) values('n022w83');
+insert into mac(mac_adrress) values('b8:ac:6f:ad:ec:a0');
+insert into ip(ip_address) values('129.130.11.155');
+
+insert into host(hostname) values('n022w84');
+insert into mac(mac_adrress) values('84:8f:69:f8:fc:fa');
+insert into ip(ip_address) values('129.130.11.156');
+
+insert into host(hostname) values('n022w85');
+insert into mac(mac_adrress) values('b8:ac:6f:0f:26:bd');
+insert into ip(ip_address) values('129.130.11.157');
+
+insert into host(hostname) values('n022w86');
+insert into mac(mac_adrress) values('a4:ba:db:f8:65:ff');
+insert into ip(ip_address) values('129.130.11.158');
+
+insert into host(hostname) values('e1116w01');
+insert into mac(mac_adrress) values('d0:50:99:70:e6:06');
+insert into ip(ip_address) values('129.130.11.162');
+
+insert into host(hostname) values('e1116w02');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:8b');
+insert into ip(ip_address) values('129.130.11.163');
+
+insert into host(hostname) values('e1116w03');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:83');
+insert into ip(ip_address) values('129.130.11.164');
+
+insert into host(hostname) values('e1116w04');
+insert into mac(mac_adrress) values('d0:50:99:70:e6:0e');
+insert into ip(ip_address) values('129.130.11.165');
+
+insert into host(hostname) values('e1116w05');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:be');
+insert into ip(ip_address) values('129.130.11.166');
+
+insert into host(hostname) values('e1116w06');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:9a');
+insert into ip(ip_address) values('129.130.11.167');
+
+insert into host(hostname) values('e1116w07');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:ea');
+insert into ip(ip_address) values('129.130.11.168');
+
+insert into host(hostname) values('e1116w08');
+insert into mac(mac_adrress) values('d0:50:99:83:0a:31');
+insert into ip(ip_address) values('129.130.11.169');
+
+insert into host(hostname) values('e1116w09');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:ef');
+insert into ip(ip_address) values('129.130.11.170');
+
+insert into host(hostname) values('e1116w10');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:de');
+insert into ip(ip_address) values('129.130.11.171');
+
+insert into host(hostname) values('e1116w11');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:a6');
+insert into ip(ip_address) values('129.130.11.172');
+
+insert into host(hostname) values('e1116w12');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:94');
+insert into ip(ip_address) values('129.130.11.173');
+
+insert into host(hostname) values('e1116w13');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:d7');
+insert into ip(ip_address) values('129.130.11.174');
+
+insert into host(hostname) values('e1116w14');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:af');
+insert into ip(ip_address) values('129.130.11.175');
+
+insert into host(hostname) values('e1116w15');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:8d');
+insert into ip(ip_address) values('129.130.11.176');
+
+insert into host(hostname) values('e1116w16');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:cd');
+insert into ip(ip_address) values('129.130.11.177');
+
+insert into host(hostname) values('e1116w17');
+insert into mac(mac_adrress) values('d0:50:99:83:09:f2');
+insert into ip(ip_address) values('129.130.11.178');
+
+insert into host(hostname) values('e1116w18');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:48');
+insert into ip(ip_address) values('129.130.11.179');
+
+insert into host(hostname) values('e1116w19');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:ab');
+insert into ip(ip_address) values('129.130.11.180');
+
+insert into host(hostname) values('e1116w20');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:8f');
+insert into ip(ip_address) values('129.130.11.181');
+
+insert into host(hostname) values('e1116w21');
+insert into mac(mac_adrress) values('d0:50:99:77:83:e0');
+insert into ip(ip_address) values('129.130.11.182');
+
+insert into host(hostname) values('e1116w22');
+insert into mac(mac_adrress) values('d0:50:99:71:7b:d1');
+insert into ip(ip_address) values('129.130.11.183');
+
+insert into host(hostname) values('e1116w23');
+insert into mac(mac_adrress) values('d0:50:99:70:e5:fd');
+insert into ip(ip_address) values('129.130.11.184');
+
+insert into host(hostname) values('e1116w24');
+insert into mac(mac_adrress) values('d0:50:99:77:83:bd');
+insert into ip(ip_address) values('129.130.11.185');
+
+insert into host(hostname) values('n126w01');
+insert into mac(mac_adrress) values('b8:ae:ed:75:7d:97');
+insert into ip(ip_address) values('129.130.11.190');
+
+insert into host(hostname) values('n126w02');
+insert into mac(mac_adrress) values('b8:ae:ed:75:f8:f0');
+insert into ip(ip_address) values('129.130.11.191');
+
+insert into host(hostname) values('n126w03');
+insert into mac(mac_adrress) values('b8:ae:ed:75:e1:de');
+insert into ip(ip_address) values('129.130.11.192');
+
+insert into host(hostname) values('n126w04');
+insert into mac(mac_adrress) values('b8:ae:ed:75:e7:dd');
+insert into ip(ip_address) values('129.130.11.193');
+
+insert into host(hostname) values('n126w05');
+insert into mac(mac_adrress) values('b8:ae:ed:75:fd:9c');
+insert into ip(ip_address) values('129.130.11.194');
+
+insert into host(hostname) values('n126w06');
+insert into mac(mac_adrress) values('b8:ae:ed:75:f8:f6');
+insert into ip(ip_address) values('129.130.11.195');
+
+insert into host(hostname) values('n126w07');
+insert into mac(mac_adrress) values('b8:ae:ed:75:f9:0a');
+insert into ip(ip_address) values('129.130.11.196');
+
+insert into host(hostname) values('n126w08');
+insert into mac(mac_adrress) values('b8:ae:ed:75:f8:f1');
+insert into ip(ip_address) values('129.130.11.197');
+
