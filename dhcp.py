@@ -17,11 +17,12 @@ k  = 0
 l = int(len(mylist) / 3)
 print(mylist)
 for i in range(l): # host.write(mylist[k] + " ")
-    host.write("insert into host(hostname) values('{0}');\n".format(mylist[k])
-               +"insert into mac(mac_adrress) values('{0}');\n".format(mylist[k+1])
-               + "insert into ip(ip_address) values('{0}');\n".format(mylist[k+2]))
+    host.write("{0},".format(mylist[k])
+    + "{0},".format(mylist[k+1])
+    + "{0}\n".format(mylist[k + 2]))
+
     k = k + 3
-    host.write("\n")
+   # host.write("\n")
 
 
 host.close()
